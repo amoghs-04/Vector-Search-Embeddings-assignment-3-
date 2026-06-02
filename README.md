@@ -118,8 +118,4 @@ Semantic retrieval is one of the core building blocks of modern RAG systems.
 * Sentence Transformers
 * FAISS
 
----
 
-## Author
-
-Amogh Sumbad
